@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d0179ec-a7f7-4927-b57c-bdf8c88387ce" name="Default Changelist" comment="" />
+    <list default="true" id="4d0179ec-a7f7-4927-b57c-bdf8c88387ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01 html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 html骨架.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 标题标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 气温案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 divspan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 文本格式化标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08 属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 图像.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 链接.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 锚点连接/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 锚点连接/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 锚点连接/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 锚点连接/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 锚点连接/images/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 锚点连接/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 base标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 特殊字符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 绝对路径.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 无序列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sublime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/上一级路径/html/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/上一级路径/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/下一级路径/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/下一级路径/images/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/同一级路径/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/同一级路径/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/春夏秋冬/chun.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/春夏秋冬/images/chun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/春夏秋冬/images/dong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/春夏秋冬/images/qiu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/春夏秋冬/images/xia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/春夏秋冬/qiu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/春夏秋冬/xia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01上海天气/上海天气.html" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,21 +57,39 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01上海天气/上海天气.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-18129" />
+              <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05 气温案例.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -67,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,6 +137,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,6 +146,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,14 +178,15 @@
       <workItem from="1558451278418" duration="245000" />
       <workItem from="1558451677136" duration="839000" />
       <workItem from="1558490825104" duration="524000" />
+      <workItem from="1558522053201" duration="555000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2204000" />
+    <option name="totallyTimeSpent" value="2759000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24305004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -152,9 +217,20 @@
     <entry file="file://$PROJECT_DIR$/01上海天气/上海天气.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-18129" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 气温案例.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
